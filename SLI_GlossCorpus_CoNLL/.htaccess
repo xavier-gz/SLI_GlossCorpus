@@ -1,0 +1,16 @@
+IndexOptions +FancyIndexing
+IndexOptions DescriptionWidth=*
+AddIcon (7zip,../../../cores/7zip.png) .7z
+
+
+AddDescription "The distribution includes a version of the Princeton Annotated Gloss Corpus (available at http://wordnet.princeton.edu/glosstag.shtml), originally tagged with WordNet 3.0 Sense Keys, projected by SLI to semantic classes (BLC), and encoded in CoNLL format for machine learning" SLI_GlossCorpus_BLC_CoNLL_1.2.7z
+
+AddDescription "The distribution includes a version of the Princeton Annotated Gloss Corpus (available at http://wordnet.princeton.edu/glosstag.shtml), originally tagged with WordNet 3.0 Sense Keys, projected by SLI to semantic classes (epinonyms), and encoded in CoNLL format for machine learning" SLI_GlossCorpus_Epinonyms_CoNLL_1.1.7z
+
+AddDescription "The distribution includes a version of the Princeton Annotated Gloss Corpus (available at http://wordnet.princeton.edu/glosstag.shtml), originally tagged with WordNet 3.0 Sense Keys, projected by SLI to WordNet 3.0 Inter-Lingual Index (ILI), and encoded in CoNLL format for machine learning" SLI_GlossCorpus_ILI_CoNLL_1.0.7z
+
+AddDescription "The distribution includes a version of the Princeton Annotated Gloss Corpus (available at http://wordnet.princeton.edu/glosstag.shtml), originally tagged with WordNet 3.0 Sense Keys, projected by SLI to semantic classes (BabelDomains), and encoded in CoNLL format for machine learning" SLI_GlossCorpus_BabelDomains_CoNLL_1.0.7z
+
+AddDescription "The distribution includes a version of the Princeton Annotated Gloss Corpus (available at http://wordnet.princeton.edu/glosstag.shtml), originally tagged with WordNet 3.0 Sense Keys, projected by SLI to semantic classes (supersenses), and encoded in CoNLL format for machine learning" SLI_GlossCorpus_Supersenses_CoNLL_1.0.7z
+
+
